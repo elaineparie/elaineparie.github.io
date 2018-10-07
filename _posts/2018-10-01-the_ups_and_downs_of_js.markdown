@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Ups and Downs of JS "
-date:       2018-10-01 20:14:47 +0000
+date:       2018-10-01 16:14:47 -0400
 permalink:  the_ups_and_downs_of_js
 ---
 
